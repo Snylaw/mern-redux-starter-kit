@@ -87,6 +87,7 @@ const deleteGoal = asyncHandler(async (req, res) => {
   res.status(200).json({ id: req.params.id })
 })
 
+/* Exporting the functions to be used in other files. */
 module.exports = {
   getGoals,
   setGoal,

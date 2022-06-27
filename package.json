@@ -1,7 +1,6 @@
 {
-  "name": "mern-tutorial",
+  "name": "mern-redux-starter-kit",
   "version": "1.0.0",
-  "description": "Goalsetter app for youtube tutorial",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
